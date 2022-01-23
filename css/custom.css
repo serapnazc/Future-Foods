@@ -1,0 +1,98 @@
+@media only screen and (min-width: 768px){
+	#header-2 .main-nav .nav .dropdown-menu {
+	  background: #306a37 !important;
+	}
+	#header-2 .main-nav .nav .dropdown-menu:before{
+    border-bottom: 10px solid #306a37 !important;
+	}
+	#header-2 .main-nav .nav .nav-item .dropdown-menu  .active{
+  	background: #4bac57 !important;
+	}
+	#header-2 .main-nav .nav .dropdown-menu a:hover {
+    background: #4bac57 !important;
+	}
+}
+body{
+	background: url(../images/bg.png) !important;
+}
+.content-wrapper{
+/*	min-height: 778px;*/
+}
+.navbar-default {
+  background-color: #4bac57 !important;
+}
+#header-2 .brand-img {
+  margin: 10px auto !important;
+  max-width: 110px !important;
+}
+#header-2 .main-nav .nav .nav-item a {
+    font-family: 'Lato', sans-serif;
+    color: #ffffff !important;
+}
+#header-2 .main-nav .nav {
+    margin-top: 33px !important;
+}
+#header-2 .main-nav .nav .nav-item.active a {
+  color: #226903 !important;
+  text-shadow: 0 0 20px #ffffff !important;
+}
+ul li, ol li {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: #ffffff !important;
+}
+.content-1-5{
+	background-image: url(../images/bg.png);
+	padding: 200px 0 198px 0 !important;
+}
+.basic-1-1{
+	padding: 100px 0 100px 0 !important;
+}
+.content-1-9{
+	padding: 242px 0 242px 0 !important;
+}
+.content-1-3{
+	padding: 161px 0 160px 0 !important;
+}
+.contact-1{
+	padding: 260px 0 327px 0 !important;
+}
+.copyright-bar{
+	background-color: #226a04  !important;
+}
+.content-1-5 h1 {
+    color: #4a4a4a !important;
+		font-weight: 500;
+}
+.lead {
+  font-weight: normal !important;
+	font-size: 16px !important;
+}
+.process-number{
+	font-size: 60px;
+}
+.content-1-9{
+	background-image: url(../images/bg.png);
+}
+.price-img {
+	width: 100%;
+}
+.price-text{
+	font-weight: 700;
+}
+.contact-1 .contact-info li {
+  color: #4a4a4a !important;
+}
+.contact-title{
+	font-weight: 500;
+	color: #4a4a4a !important;
+}
+.underlined-title hr {
+  border-color: #f15a29 !important;
+}
+.contact-1 .contact-info span {
+  color: #f15a29 !important;
+}
+.content-sponsor{
+	background: #ffffff !important;
+	padding: 60px 0 60px 0 !important;
+}
