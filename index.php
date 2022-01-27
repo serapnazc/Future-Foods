@@ -2,28 +2,56 @@
 	include('./includes-website/html_header.php');
 ?>
 
-<!-- Start Content Block 1-5 v2 -->
-	<section class="content-1-5 content-block">
+<!-- Start Basic 1-1 -->
+<section id="basic-1-1" class="basic-1-1 content-block" style="background: #ffffff00;">
+  <div class="container">
 
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 col-lg-offset-1 col-md-6 col-sm-12 pull-right">
-				<div class="editContent">
-					<h1>HAKKIMIZDA</h1>
+
+      <div class="row">
+        <div class="editContent">
+          <h2 style="font-weight: normal;">1. Formu Doldurmakla Başla!</h2>
+        </div>
+        <div class="editContent">
+          <p style="font-size:16px !important;"> Gıda mühendisi, Kimya mühendisi,Beslenme ve diyetetik, Gastronomi lisans öğrencisiysen, 2-3 kişiden oluşan takımını kur ve başvuru formunu doldur!</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="editContent">
+          <h2 style="font-weight: normal;">2. Sırada Proje Var!</h2>
+        </div>
+        <div class="editContent">
+					<p style="font-size:16px !important;">Ekip olarak katılım koşullarına uygunsanız, proje ekibi tarafından bilgilendirileceksiniz. Bilgilendirmeyi aldıktan sonra hazırladığınız sunumu belirtilen tarihe kadar “Proje Gönderimi” alanına yüklemeyi unutmayın!</p>
 				</div>
-				<div class="editContent">
-					<p class="lead">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor. Et harum quidem rerum.</p>
-				</div>
-			</div>
+      </div>
 
-			<div class="col-lg-5 col-md-6 col-sm-12 pull-left">
-				<img class="img-responsive" src="http://placehold.it/600x500">
-			</div>
-		</div><!-- /.row -->
-	</div><!-- /.container -->
 
-	</section>
-	<!-- // End Content Block 1-5 v2 -->
+
+      <div class="row">
+        <div class="editContent">
+          <h2 style="font-weight: normal;">3. Çok Yaklaştın… Projeni Detaylandır!
+</h2>
+        </div>
+        <div class="editContent">
+          <p style="font-size:16px !important;">İkinci aşamayı geçen ilk 10 takım arasındaysanız bir bilgilendirme e-postası daha alacaksınız. Yeni göreviniz ise projenizi detaylandırmak. Belirtilen tarihe kadar sunumunuzu “Proje Gönderimi” alanına yüklemeyi unutmayın!</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="editContent">
+          <h2 style="font-weight: normal;">4. Tebrikler! Şimdi Sunum Zamanı!</h2>
+        </div>
+        <div class="editContent">
+          <p style="font-size:16px !important;">İlk 5 takım arasındasınız! Tebrikler! İstanbul’daki finale katılma zamanı! Projenizi son haline getirip sitedeki “Proje Gönderimi” alanına yüklemelisiniz. Final Etkinliği’nde takımlar jüri üyelerine sunumlarını gerçekleştirecek. Sunumlar sonrasında değerlendirmelerin ardından jüri üyeleri en iyi 3 takıma ödüllerini sunacak.</p>
+        </div>
+      </div>
+
+
+
+  </div><!-- /.container -->
+</section>
+  <!--// END Basic 1-1 -->
+
 <?php
 	include('./includes-website/footer.php');
 ?>

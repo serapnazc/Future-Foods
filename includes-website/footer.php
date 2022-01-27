@@ -1,5 +1,4 @@
-
-</div>
+82</div>
 <footer>
 	<!-- Start Footer Copyright Bar -->
 <div class="copyright-bar bg-black">
@@ -8,7 +7,7 @@
 			<p class="pull-left small">© serapnazc - Fiki Tech Solutions</p>
 		</div>
 		<div class="editContent">
-			<p class="pull-right small">Made with <span class="fa fa-heart pomegranate"></span> in London</p>
+			<p class="pull-right small">Made with <span class="fa fa-heart pomegranate"></span></p>
 		</div>
 	</div>
 </div>

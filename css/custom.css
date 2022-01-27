@@ -65,7 +65,7 @@ ul li, ol li {
 }
 .lead {
   font-weight: normal !important;
-	font-size: 16px !important;
+	font-size: 22px !important;
 }
 .process-number{
 	font-size: 60px;
@@ -95,4 +95,8 @@ ul li, ol li {
 .content-sponsor{
 	background: #ffffff !important;
 	padding: 60px 0 60px 0 !important;
+}
+.content-3-6{
+	padding: 0 !important;
+	background: transparent !important;
 }
