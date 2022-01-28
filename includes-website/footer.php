@@ -1,4 +1,4 @@
-82</div>
+</div>
 <footer>
 	<!-- Start Footer Copyright Bar -->
 <div class="copyright-bar bg-black">
@@ -27,7 +27,7 @@
 	<!-- Theme Scripts -->
 	<script type="text/javascript" src="./js/bskit-scripts.js"></script>
 
-</div><!-- /wrapper -->
+
 
 </body>
 </html>

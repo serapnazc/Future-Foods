@@ -1,0 +1,60 @@
+*********************************************
+03:54:22
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+INSERT INTO team_information (team_name,member_one_name,member_one_phone,member_one_mail,member_one_school,member_one_grademember_one_department,member_two_name,member_two_phone,member_two_mail,member_two_school,member_two_grademember_two_department,member_three_name,member_three_phone,member_three_mail,member_three_school,member_three_grademember_three_department) VALUES ('Serapnaz','Cetinkaya dgvdfgfb','serapnazc@gmail.com','05396604759','Ankara Üniversitesi','3','gida','','','','','','','','','','','','') 
+*********************************************
+03:48:00
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:47:22
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:28:30
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:28:06
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:26:42
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:26:19
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Array 
+*********************************************
+03:25:31
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Adana Bilim ve Teknoloji Üniversitesi 
+*********************************************
+03:24:35
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:24:14
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 

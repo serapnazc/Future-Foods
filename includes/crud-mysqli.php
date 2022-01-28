@@ -12,7 +12,7 @@
         }
 
         $location = getcwd();
-		$file_name = basename($_SERVER['PHP_SELF']);
+		      $file_name = basename($_SERVER['PHP_SELF']);
         $initialData = file_get_contents($log_file);
         $newData .= "*********************************************\r\n";
         $newData .= "".$time."\r\n";
@@ -21,6 +21,7 @@
         $newData .= "\r\n".$error_data." \r\n".$initialData;
         file_put_contents($log_file,$newData);
     }
+
     function TestLog($test_data){
         include('settings.php');
         $newData='';
@@ -32,7 +33,7 @@
         }
 
         $location = getcwd();
-		$file_name = basename($_SERVER['PHP_SELF']);
+		      $file_name = basename($_SERVER['PHP_SELF']);
         $initialData = file_get_contents($log_file);
         $newData .= "*********************************************\r\n";
         $newData .= "".$time."\r\n";
@@ -115,6 +116,7 @@
 
 
     }
+
     function SQLExecute($query,$write_log = false ){
         include('config.php');
         $query_get = "".$query."";
@@ -144,8 +146,6 @@
 
     }
 
-
-
     function GetColumns($table_name){
         include('config.php');
         /***************************************************************************
@@ -163,11 +163,10 @@
             $rows_array[] = $row;
 
         }
-		mysqli_close( $conn );
+		      mysqli_close( $conn );
         return $rows_array;
 
     }
-
 
     function GetTables(){
         include('config.php');
@@ -186,12 +185,11 @@
         }
 
 
-		mysqli_close( $conn );
+		      mysqli_close( $conn );
        return $tables_array;
 
 
     }
-
 
     function Insert($table_name, $fields_array, $values_array,$write_log = false ){
         include('config.php');
@@ -219,7 +217,7 @@
 
         if( $result_insert === false ) {
             ErrorLog($query_insert,'crud');
-			mysqli_close( $conn );
+			         mysqli_close( $conn );
             return false;
 
         } else {
@@ -234,6 +232,7 @@
         //Insert('drivers',$fields_array,$test_values);
 
     }
+
     function Delete($table_name,$condition,$write_log = false ){
         include('config.php');
         $query_delete = "DELETE FROM ".$table_name." ".$condition."";
@@ -260,6 +259,7 @@
          //Delete("drivers","WHERE first_name = 's' AND phone = 34");
 
     }
+
     function Update($table_name,$fields_array,$values_array,$condition,$write_log = false){
         include('config.php');
         /***************************************************************************
@@ -301,7 +301,6 @@
 
     }
 
-
     function FillDataTable($table,$primaryKey,$columns,$where,$method){
         include('settings.php');
         // SQL server connection information
@@ -319,16 +318,16 @@
 
         require( 'ssp.class.php' );
 
-		if($method =='get'){
-			  echo json_encode(
-            SSP::simple( $_GET, $sql_details, $table, $primaryKey, $columns,$where)
-        );
-		} else {
+  		if($method =='get'){
+  			  echo json_encode(
+              SSP::simple( $_GET, $sql_details, $table, $primaryKey, $columns,$where)
+          );
+  		} else {
 
-			  echo json_encode(
-            SSP::simple( $_POST, $sql_details, $table, $primaryKey, $columns,$where)
-			);
-		}
+  			  echo json_encode(
+              SSP::simple( $_POST, $sql_details, $table, $primaryKey, $columns,$where)
+  			);
+  		}
 
 
 

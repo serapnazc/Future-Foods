@@ -42,10 +42,11 @@ ul li, ol li {
 }
 .content-1-5{
 	background-image: url(../images/bg.png);
-	padding: 200px 0 198px 0 !important;
+/*	padding: 200px 0 198px 0 !important; */
 }
 .basic-1-1{
-	padding: 100px 0 100px 0 !important;
+	background: #ffffff8f !important;
+ text-shadow: 0 0 black !important;
 }
 .content-1-9{
 	padding: 242px 0 242px 0 !important;
@@ -54,7 +55,7 @@ ul li, ol li {
 	padding: 161px 0 160px 0 !important;
 }
 .contact-1{
-	padding: 260px 0 327px 0 !important;
+	padding: 28rem 0px 27rem 0 !important;
 }
 .copyright-bar{
 	background-color: #226a04  !important;
@@ -97,6 +98,51 @@ ul li, ol li {
 	padding: 60px 0 60px 0 !important;
 }
 .content-3-6{
-	padding: 0 !important;
+	/*padding: 0 !important;*/
 	background: transparent !important;
+}
+.content-3-4{
+	background: transparent !important;
+}
+.panel-title > a, .panel-title > a:hover{
+	background: #226a04 ;
+	color: #fff;
+}
+.panel-title > a.collapsed span{
+	 color: #226a04;
+}
+.panel-title > a:hover span {
+    color: inherit;
+}
+.surec-title{
+	padding-top: 0 !important;
+	margin-top: 0 !important;
+	font-weight: normal;
+	color: #ffffff !important;
+}
+.content-3-6 .feature-box{
+	background: #5124c0b3 !important;
+}
+.surec-date{
+	font-weight: normal;
+	color: #ffff !important;
+}.content-3-6 .feature-box p {
+    line-height: 20px !important;
+    color: #ffffff;
+    opacity: 1 !important;
+}
+.gallery-1{
+	background: transparent !important;
+}
+.gallery-item:hover .gallery-thumb .gallery-zoom{
+	margin-left: -19px !important;
+}
+.gallery-item .gallery-thumb .gallery-zoom, .gallery-item .gallery-thumb .gallery-link{
+	background-color: #e16682 !important;
+}
+.form-group{
+	position: unset !important;
+}
+.apply-title{
+	padding: 0 15px 0 15px !important;
 }
