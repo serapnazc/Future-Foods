@@ -146,3 +146,28 @@ ul li, ol li {
 .apply-title{
 	padding: 0 15px 0 15px !important;
 }
+.add-member-btn{
+	background: #39b1d5;
+}
+.add-member-btn:hover{
+  background: #0c97c1 !important;
+	color: #ffffff !important;
+}
+.add-member-btn:focus{
+	outline: none !important;
+	color: #ffffff !important;
+}
+.apply-btn{
+	background: #4bac57;;
+}
+.apply-btn:hover{
+	background: #226a04;
+	color: #ffffff !important
+}
+.apply-btn:focus{
+	outline: none !important;
+	color: #ffffff !important;
+}
+.link-a{
+	color: #d53939 !important;
+}

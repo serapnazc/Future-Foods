@@ -69,46 +69,6 @@
 	}*/
 
 
-	if(isset($_POST['apply-submit'])){
-
-		$team_name = CleanVariable($_POST['team_name']);
-		$member_one_name = CleanVariable($_POST['member_one_name']);
-		$member_one_phone = CleanVariable($_POST['member_one_phone']);
-		$member_one_email = CleanVariable($_POST['member_one_email']);
-		$member_one_school = CleanVariable($_POST['member_one_school']);
-		$member_one_grade = CleanVariable($_POST['member_one_grade']);
-		$member_one_department = CleanVariable($_POST['member_one_department']);
-
-		$member_two_name = CleanVariable($_POST['member_two_name']);
-		$member_two_phone = CleanVariable($_POST['member_two_phone']);
-		$member_two_email = CleanVariable($_POST['member_two_email']);
-		$member_two_school = CleanVariable($_POST['member_two_school']);
-		$member_two_grade = CleanVariable($_POST['member_two_grade']);
-		$member_two_department = CleanVariable($_POST['member_two_department']);
-
-		$member_three_name = CleanVariable($_POST['member_three_name']);
-		$member_three_phone = CleanVariable($_POST['member_three_phone']);
-		$member_three_email = CleanVariable($_POST['member_three_email']);
-		$member_three_school = CleanVariable($_POST['member_three_school']);
-		$member_three_grade = CleanVariable($_POST['member_three_grade']);
-		$member_three_department = CleanVariable($_POST['member_three_department']);
-
-		$fields_array=array("team_name","member_one_name","member_one_phone","member_one_mail","member_one_school","member_one_grade","member_one_department",
-																		"member_two_name","member_two_phone","member_two_mail","member_two_school","member_two_grade","member_two_department",
-																	"member_three_name","member_three_phone","member_three_mail","member_three_school","member_three_grade","member_three_department");
-		$values=array("".$team_name."","".$member_one_name."","".$member_one_phone."","".$member_one_email."","".$member_one_school."","".$member_one_grade."","".$member_one_department."",
-																	"".$member_two_name."","".$member_two_phone."","".$member_two_email."","".$member_two_school."","".$member_two_grade."","".$member_two_department."",
-																	"".$member_three_name."","".$member_three_phone."","".$member_three_email."","".$member_three_school."","".$member_three_grade."","".$member_three_department."");
-
-		$result = Insert('team_information',$fields_array,$values);
-
-		if($result == true){
-			return '1';
-		}else{
-			return '2';
-		}
-
-	}
 ?>
 
 <!DOCTYPE html>

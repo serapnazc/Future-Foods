@@ -14,19 +14,17 @@
 <!--// END Footer Copyright Bar -->
 </footer>
 
+<!-- Scripts at the end... you know the score! -->
+<!-- Core Scripts -->
+<script type="text/javascript" src="./js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="./js/bootstrap.min.js"></script>
+<script type="text/javascript" src="./js/bootstrap-hover-dropdown.min.js"></script>
 
-    <!-- Scripts at the end... you know the score! -->
-	<!-- Core Scripts -->
-	<script type="text/javascript" src="./js/jquery-1.11.1.min.js"></script>
-	<script type="text/javascript" src="./js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="./js/bootstrap-hover-dropdown.min.js"></script>
-
-	<!-- Vendor Scripts -->
+<!-- Vendor Scripts -->
 
 
-	<!-- Theme Scripts -->
-	<script type="text/javascript" src="./js/bskit-scripts.js"></script>
-
+<!-- Theme Scripts -->
+<script type="text/javascript" src="./js/bskit-scripts.js"></script>
 
 
 </body>

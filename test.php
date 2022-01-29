@@ -1,98 +1,39 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            Create a Form Dynamically with
-            the JavaScript
-        </title>
-    </head>
-    <body style="text-align: center;">
-        <h1 style="color: green;">
-            GeeksforGeeks
-        </h1>
-        <p>
-          Click on the button to create
-          a form dynamically
-        </p>
-        <button onClick="GFG_Fun()">
-            click here
-        </button>
-        <p id="GFG_DOWN"></p>
- <script>
-    var down = document.getElementById("GFG_DOWN");
 
-    // Create a break line element
-    var br = document.createElement("br");
-    function GFG_Fun() {
+<?php
+	include('./includes-website/html_header.php');
+?>
+----------------------------------------------------
+<?php
 
-    // Create a form dynamically
-    var form = document.createElement("form");
-    form.setAttribute("method", "post");
-    form.setAttribute("action", "submit.php");
+function aaa($string){
 
-    // Create an input element for Full Name
-    var FN = document.createElement("input");
-    FN.setAttribute("type", "text");
-    FN.setAttribute("name", "FullName");
-    FN.setAttribute("placeholder", "Full Name");
+  $string = preg_replace("`\[.*\]`U","",$string);
+  $string = preg_replace('`&(amp;)?#?[a-z0-9]+;`i','-',$string);
+  $string = htmlentities($string, ENT_COMPAT, 'utf-8');
+  $string = preg_replace( "`&([a-z])(acute|uml|circ|grave|ring|cedil|slash|tilde|caron|lig|quot|rsquo);`i","\\1", $string );
+  $string = preg_replace( array("`[^a-z0-9]`i","`[-]+`") , "-", $string);
 
-     // Create an input element for date of birth
-     var DOB = document.createElement("input");
-     DOB.setAttribute("type", "text");
-     DOB.setAttribute("name", "dob");
-     DOB.setAttribute("placeholder", "DOB");
 
-     // Create an input element for emailID
-     var EID = document.createElement("input");
-     EID.setAttribute("type", "text");
-     EID.setAttribute("name", "emailID");
-     EID.setAttribute("placeholder", "E-Mail ID");
+  if ($down == 1)
+  {
+      $string = str_replace('-','_',$string);
+      return strtolower(trim($string, '_'));
+  }
+  else
+  {
+      return strtolower(trim($string, '-'));
+  }
+}
+$b ='BahÃ§eÅŸehir Ãœniversitesi';
 
-      // Create an input element for password
-      var PWD = document.createElement("input");
-      PWD.setAttribute("type", "password");
-      PWD.setAttribute("name", "password");
-      PWD.setAttribute("placeholder", "Password");
+$data = aaa($b);
 
-       // Create an input element for retype-password
-       var RPWD = document.createElement("input");
-       RPWD.setAttribute("type", "password");
-       RPWD.setAttribute("name", "reTypePassword");
-       RPWD.setAttribute("placeholder", "ReEnter Password");
+echo $data;
 
-                // create a submit button
-                var s = document.createElement("input");
-                s.setAttribute("type", "submit");
-                s.setAttribute("value", "Submit");
 
-                // Append the full name input to the form
-                form.appendChild(FN);
 
-                // Inserting a line break
-                form.appendChild(br.cloneNode());
 
-                // Append the DOB to the form
-                form.appendChild(DOB);
-                form.appendChild(br.cloneNode());
 
-                // Append the emailID to the form
-                form.appendChild(EID);
-                form.appendChild(br.cloneNode());
 
-                // Append the Password to the form
-                form.appendChild(PWD);
-                form.appendChild(br.cloneNode());
 
-                // Append the ReEnterPassword to the form
-                form.appendChild(RPWD);
-                form.appendChild(br.cloneNode());
-
-                // Append the submit button to the form
-                form.appendChild(s);
-
-                document.getElementsByTagName("body")[0]
-               .appendChild(form);
-            }
-        </script>
-    </body>
-</html>
+ ?>
