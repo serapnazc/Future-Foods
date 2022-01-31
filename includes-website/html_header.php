@@ -3,7 +3,7 @@
 	include('./includes/functions.php');
 	include('./includes/library.php');
 		include('./includes/crud-mysqli.php');
-/*	if(basename($_SERVER['PHP_SELF'])== "index.php"){
+		/*	if(basename($_SERVER['PHP_SELF'])== "index.php"){
 		$nav_active_index = 'active';
 		$nav_active_kk = '';
 		$nav_active_surec = '';
@@ -94,7 +94,7 @@
 
 	<!-- Block Styles -->
 	<link href="./css/header-2.css" rel="stylesheet">
-	<link href="./css/footer-5.css" rel="stylesheet">
+	<link href="./css/footer-3.css" rel="stylesheet">
 	<link href="./css/custom.css" rel="stylesheet">
 	<link href="./css/basic.css" rel="stylesheet">
 	<link href="./css/content1-3.css" rel="stylesheet">

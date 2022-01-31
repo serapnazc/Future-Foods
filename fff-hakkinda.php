@@ -8,7 +8,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6  col-md-6 col-sm-12 pull-right">
+			<div class="col-lg-6 col-md-offset-1 col-md-6 col-sm-12 pull-right">
 				<div class="editContent">
 					<h1>FFF HAKKINDA</h1>
 				</div>
@@ -19,7 +19,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-6 col-md-6 col-sm-12 pull-left">
+			<div class="col-lg-5 col-md-6 col-sm-12 pull-left">
 				<img class="img-responsive" src="http://placehold.it/600x500">
 			</div>
 		</div><!-- /.row -->

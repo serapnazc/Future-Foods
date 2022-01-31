@@ -1,39 +1,26 @@
 
 <?php
+
 	include('./includes-website/html_header.php');
+
+	if(isset($_POST['test-submit'])){
+		$to = "serapnazc@gmail.com";
+	 $subject = "This is subject";
+
+	 $message = "<b>This is HTML message.</b>";
+	 $message .= "<h1>This is headline.</h1>";
+
+	 $from ="futurefoodsforum.com";
+
+	 SendEmail($to,$subject,$message,$from);
+	}
 ?>
 ----------------------------------------------------
-<?php
-
-function aaa($string){
-
-  $string = preg_replace("`\[.*\]`U","",$string);
-  $string = preg_replace('`&(amp;)?#?[a-z0-9]+;`i','-',$string);
-  $string = htmlentities($string, ENT_COMPAT, 'utf-8');
-  $string = preg_replace( "`&([a-z])(acute|uml|circ|grave|ring|cedil|slash|tilde|caron|lig|quot|rsquo);`i","\\1", $string );
-  $string = preg_replace( array("`[^a-z0-9]`i","`[-]+`") , "-", $string);
 
 
-  if ($down == 1)
-  {
-      $string = str_replace('-','_',$string);
-      return strtolower(trim($string, '_'));
-  }
-  else
-  {
-      return strtolower(trim($string, '-'));
-  }
-}
-$b ='BahÃ§eÅŸehir Ãœniversitesi';
+<form action="test.php" method="post">
 
-$data = aaa($b);
-
-echo $data;
-
-
-
-
-
-
-
- ?>
+	<div class="form-group">
+		<button class="btn apply-btn pull-right" type="submit" name="test-submit">GÖNDER</button>
+	</div>
+</form>

@@ -1,17 +1,29 @@
 </div>
 <footer>
-	<!-- Start Footer Copyright Bar -->
-<div class="copyright-bar bg-black">
-	<div class="container">
+
+
+	<!-- Start Footer 1-3 -->
+<section class="content-block-nopad footer-ws">
+<div class="container footer-1-3">
+	<div class="col-md-3 pull-left">
+		<img  src="./images/afro-turco.svg" class="brand-img img-responsive">
+	</div>
+	<div class="col-md-6 pull-right">
+			<ul class="social social-light pull-right">
+				<li><p class="address small">KATILIM KOŞULLARI</p></li>
+				<li><p class="address small">KVKK BİLGİLENDİRME METNİI</p></li>
+				<li><p class="address small">ÇEREZ POLİTİKASI</p></li>
+				<li><p class="address small">İLETİŞİM</p></li>
+			</ul><!-- /.social -->
+	</div>
+	<div class="col-xs-12 footer-text">
 		<div class="editContent">
-			<p class="pull-left small">© serapnazc - Fiki Tech Solutions</p>
-		</div>
-		<div class="editContent">
-			<p class="pull-right small">Made with <span class="fa fa-heart pomegranate"></span></p>
+			<p>Please take a few minutes to read our <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a></p>
 		</div>
 	</div>
-</div>
-<!--// END Footer Copyright Bar -->
+</div><!-- /.container -->
+</section>
+<!--// END Footer 1-3 -->
 </footer>
 
 <!-- Scripts at the end... you know the score! -->

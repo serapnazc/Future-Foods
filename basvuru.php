@@ -14,8 +14,8 @@ $result_text = '';
 
 			if($result_team == true){
 
-				$team = Get('teams',' ORDER BY record_id DESC LIMIT 1');
-				$team_id = $team[0]['record_id'];
+				$team = Get('teams',' ORDER BY team_id DESC LIMIT 1');
+				$team_id = $team[0]['team_id'];
 
 				for($i=1; $i<($member_id+1); $i++){
 					$name = CleanVariable($_POST[''.$i.'_name']);

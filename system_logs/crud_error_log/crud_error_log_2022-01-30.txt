@@ -1,0 +1,6 @@
+*********************************************
+12:30:03
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+SELECT * FROM teams  ORDER BY record_id DESC LIMIT 1 
