@@ -38,6 +38,6 @@
 <!-- Theme Scripts -->
 <script type="text/javascript" src="./js/bskit-scripts.js"></script>
 
-
+</div><!--- wrapper --->
 </body>
 </html>

@@ -107,7 +107,7 @@
 
 </head>
 <body>
-
+<div class="wrapper">
 
 
 	<!-- HEADER 2 -->
@@ -123,13 +123,13 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<img src="./images/logo-eg.png" class="brand-img img-responsive" >
+					<a href="index.php"><img src="./images/logo-eg.png" class="brand-img img-responsive" ></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="nav-item "><a href="index.php">Nasil Katilirsin?</a></li>
+						<li class="nav-item "><a href="nasil-katilirsin.php">Nasil Katilirsin?</a></li>
 						<li class="nav-item  "><a href="basvuru.php">Basvuru Formu</a></li>
 						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gonderimi</a></li>
 						<li class="nav-item  "><a href="oduller.php">Oduller</a></li><li class="nav-item dropdown">
