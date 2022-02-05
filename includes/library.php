@@ -6,7 +6,7 @@
 
         $var  = str_replace("'", "", $var); //Remove single quote '
         $var  = str_replace('"', '', $var); //Remove double quote "
-        $var  = strip_tags(addslashes($var));
+      
         return $var;
 
     }

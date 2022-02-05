@@ -1,26 +1,46 @@
-
 <?php
+include('./includes-website/html_header.php');
+/*   if(isset($_FILES['image'])){
+      $errors= array();
+      $file_name = $_FILES['image']['name'];
+      $file_size =$_FILES['image']['size'];
+      $file_tmp =$_FILES['image']['tmp_name'];
+      $file_type=$_FILES['image']['type'];
+      $file_ext=strtolower(end(explode('.',$_FILES['image']['name'])));
 
-	include('./includes-website/html_header.php');
+      $extensions= array("pdf","png");
+	$myfile = mkdir("uploads/tcebst");
+      if(in_array($file_ext,$extensions)=== false){
+         $errors[]="extension not allowed, please choose a JPEG or PNG file.";
+      }
 
-	if(isset($_POST['test-submit'])){
-		$to = "serapnazc@gmail.com";
-	 $subject = "This is subject";
+      if($file_size > 2097152){
+         $errors[]='File size must be excately 2 MB';
+      }
 
-	 $message = "<b>This is HTML message.</b>";
-	 $message .= "<h1>This is headline.</h1>";
+      if(empty($errors)==true){
 
-	 $from ="futurefoodsforum.com";
-
-	 SendEmail($to,$subject,$message,$from);
-	}
+         move_uploaded_file($file_tmp,"uploads/test/".$file_name);
+         echo "Success";
+      }else{
+         print_r($errors);
+      }
+   }*/
 ?>
-----------------------------------------------------
+<html>
+   <body>
 
+      <form action="" method="POST" enctype="multipart/form-data">
+         <input type="file" name="image" />ggg
+         <input type="submit"/>
+      </form>
+			<?php
 
-<form action="test.php" method="post">
+			$string = "UC-86QW'x'B0FS.pdf";
+			$file = CleanVariable(preg_replace('/[^A-Za-z0-9.]/', '-', $string));
+			echo $file;
 
-	<div class="form-group">
-		<button class="btn apply-btn pull-right" type="submit" name="test-submit">GÖNDER</button>
-	</div>
-</form>
+			 ?>
+
+   </body>
+</html>

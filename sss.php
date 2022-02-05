@@ -92,7 +92,7 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
-                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content4">
+                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content5">
                                         <div class="editContent">
                                           <span>Dereceye girmesi durumunda tüm takım üyeleri staj hakkı elde eder mi?</span>
                                         </div>
@@ -100,7 +100,7 @@
                                   </h3>
                             </div>
 
-                            <div id="content4" class="panel-collapse collapse">
+                            <div id="content5" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <div class="editContent">
                                         <p>Dereceye giren ilk 3 takım staj programına dâhil edileceklerdir.</p>
@@ -112,7 +112,7 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
-                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content4">
+                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content6">
                                         <div class="editContent">
                                           <span>Birden fazla proje ile yarışmaya katılabilir miyiz?</span>
                                         </div>
@@ -120,7 +120,7 @@
                                   </h3>
                             </div>
 
-                            <div id="content4" class="panel-collapse collapse">
+                            <div id="content6" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <div class="editContent">
                                         <p>Hayır, her takım yarışmaya bir proje ile katılabilir.</p>
@@ -132,7 +132,7 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h3 class="panel-title">
-                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content5">
+                                    <a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#content7">
                                         <div class="editContent">
                                           <span>Birden fazla takımda yer alabilir miyiz?</span>
                                         </div>
@@ -140,7 +140,7 @@
                                   </h3>
                             </div>
 
-                            <div id="content5" class="panel-collapse collapse">
+                            <div id="content7" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <div class="editContent">
                                         <p>Hayır, bir yarışmacı sadece bir takımın üyesi olabilir.</p>
@@ -160,6 +160,8 @@
         </div>
         <!-- /.container -->
     </section>
+
+
 <?php
 	include('./includes-website/footer.php');
 ?>
