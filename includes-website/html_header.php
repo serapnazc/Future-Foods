@@ -1,74 +1,10 @@
 <?php
+session_start();
+$_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB634254';
 	include('./includes/config.php');
 	include('./includes/functions.php');
 	include('./includes/library.php');
-		include('./includes/crud-mysqli.php');
-		/*	if(basename($_SERVER['PHP_SELF'])== "index.php"){
-		$nav_active_index = 'active';
-		$nav_active_kk = '';
-		$nav_active_surec = '';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "katilim-kosullari.php"){
-		$nav_active_index = '';
-		$nav_active_kk = 'active';
-		$nav_active_surec = '';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "surec.php"){
-		$nav_active_index = '';
-		$nav_active_kk = '';
-		$nav_active_surec = 'active';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "oduller.php"){
-		$nav_active_index = '';
-		$nav_active_kk = '';
-		$nav_active_surec = '';
-		$nav_active_oduller ='active';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "sponsorumuz.php"){
-		$nav_active_index = '';
-		$nav_active_kk = '';
-		$nav_active_surec = '';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = 'active';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "iletisim.php"){
-		$nav_active_index = '';
-		$nav_active_kk = '';
-		$nav_active_surec = '';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = '';
-		$nav_active_iletisim ='active';
-		$nav_active_yarisma = '';
-	}else if(basename($_SERVER['PHP_SELF'])== "hemen-basvur.php"){
-		$nav_active_index = '';
-		$nav_active_kk = '';
-		$nav_active_surec = '';
-		$nav_active_oduller ='';
-		$nav_active_sponsor = '';
-		$nav_active_basvur = 'active';
-		$nav_active_iletisim ='';
-		$nav_active_yarisma = '';
-	}*/
-
-
+	include('./includes/crud-mysqli.php');
 ?>
 
 <!DOCTYPE html>
@@ -104,15 +40,75 @@
 	<link href="./css/content3-6.css" rel="stylesheet">
 		<link href="./css/gallery-1.css" rel="stylesheet">
 
-
 </head>
 <body>
 <div class="wrapper">
 
+		<!-- The KVKK BİLGİLENDİRME METNİ MODAL -->
+		<div class="modal" id="kvkkModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">KVKK BİLGİLENDİRME METNİ</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+					<!-- Modal body -->
+					<div class="modal-body">
+						Modal body..
+					</div>
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- The ÇEREZ POLİTİKASI MODAL -->
+		<div class="modal" id="cplModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">ÇEREZ POLİTİKASI</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+					<!-- Modal body -->
+					<div class="modal-body">
+						Modal body..
+					</div>
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- TheKATILIM KOŞULLARI MODAL -->
+		<div class="modal" id="kkModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal Header -->
+					<div class="modal-header">
+						<h4 class="modal-title">KATILIM KOŞULLARI</h4>
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+					<!-- Modal body -->
+					<div class="modal-body">
+						Modal body..
+					</div>
+					<!-- Modal footer -->
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
 
 	<!-- HEADER 2 -->
 	<header id="header-2">
-
 		<nav class="main-nav navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -123,29 +119,32 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="index.php"><img src="./images/logo-eg.png" class="brand-img img-responsive" ></a>
+					<a href="index.php"><img src="./assets/images/logo-eg.png" class="brand-img img-responsive" ></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="nav-item "><a href="nasil-katilirsin.php">Nasil Katilirsin?</a></li>
-						<li class="nav-item  "><a href="basvuru.php">Basvuru Formu</a></li>
-						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gonderimi</a></li>
-						<li class="nav-item  "><a href="oduller.php">Oduller</a></li><li class="nav-item dropdown">
+						<li class="nav-item "><a href="nasil-katilirsin.php">Nasıl Katılırsın?</a></li>
+						<li class="nav-item  "><a href="basvuru.php">Başvuru Formu</a></li>
+						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gönderİmİ</a></li>
+						<li class="nav-item  "><a href="oduller.php">Ödüller</a></li><li class="nav-item dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">FFF <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">
-								<li class=""><a href="fff-hakkinda.php">Hakkinda</a></li>
+								<li class=""><a href="fff-hakkinda.php">Hakkında</a></li>
 								<li class=""><a href="sss.php">SSS</a></li>
-								<li class=""><a href="surec.php">Surec</a></li>
-								<li class=""><a href="galeri.php">Galeri</a></li>
+								<li class=""><a href="surec.php">Süreç</a></li>
+								<li class=""><a href="galeri.php">Galerİ</a></li>
 							</ul>
-						</li><!-- /.dropdown -->
+						</li>
+						<li class="nav-item "><a href="fonksiyonel-bar.php">FonksIyonel Bar Nedir?</a></li><li class="nav-item dropdown">
 
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
 		</nav>
+
+
 
 	</header>
 	<!-- // End HEADER 2 -->

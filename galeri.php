@@ -4,9 +4,9 @@
 
 <section class="content-block gallery-1">
   <div class="container">
-    <div class="underlined-title">
+    <div class="underlined-title-gallery">
       <div class="editContent">
-          <h1>TITLE</h1>
+          <h1>GALERİ</h1>
       </div>
       <hr>
     </div>

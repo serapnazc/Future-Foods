@@ -1,46 +1,42 @@
-<?php
-include('./includes-website/html_header.php');
-/*   if(isset($_FILES['image'])){
-      $errors= array();
-      $file_name = $_FILES['image']['name'];
-      $file_size =$_FILES['image']['size'];
-      $file_tmp =$_FILES['image']['tmp_name'];
-      $file_type=$_FILES['image']['type'];
-      $file_ext=strtolower(end(explode('.',$_FILES['image']['name'])));
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
 
-      $extensions= array("pdf","png");
-	$myfile = mkdir("uploads/tcebst");
-      if(in_array($file_ext,$extensions)=== false){
-         $errors[]="extension not allowed, please choose a JPEG or PNG file.";
-      }
+<div class="container">
+  <h2>Modal Example</h2>
+  <!-- Trigger the modal with a button -->
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
 
-      if($file_size > 2097152){
-         $errors[]='File size must be excately 2 MB';
-      }
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
 
-      if(empty($errors)==true){
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
 
-         move_uploaded_file($file_tmp,"uploads/test/".$file_name);
-         echo "Success";
-      }else{
-         print_r($errors);
-      }
-   }*/
-?>
-<html>
-   <body>
+    </div>
+  </div>
 
-      <form action="" method="POST" enctype="multipart/form-data">
-         <input type="file" name="image" />ggg
-         <input type="submit"/>
-      </form>
-			<?php
+</div>
 
-			$string = "UC-86QW'x'B0FS.pdf";
-			$file = CleanVariable(preg_replace('/[^A-Za-z0-9.]/', '-', $string));
-			echo $file;
-
-			 ?>
-
-   </body>
+</body>
 </html>

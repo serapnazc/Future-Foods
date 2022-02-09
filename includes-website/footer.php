@@ -6,20 +6,23 @@
 <section class="content-block-nopad footer-ws">
 <div class="container footer-1-3">
 	<div class="col-md-3 pull-left">
-		<img  src="./images/afro-turco.svg" class="brand-img img-responsive">
+		<img  src="./assets/images/afro-turco.svg" class="brand-img img-responsive">
 	</div>
-	<div class="col-md-6 pull-right">
-			<ul class="social social-light pull-right">
-				<li><p class="address small">KATILIM KOŞULLARI</p></li>
-				<li><p class="address small">KVKK BİLGİLENDİRME METNİI</p></li>
-				<li><p class="address small">ÇEREZ POLİTİKASI</p></li>
-				<li><p class="address small">İLETİŞİM</p></li>
-			</ul><!-- /.social -->
+	<div class="col-md-3 pull-right">
+		<ul class="social">
+			<li style="float: right;">
+				<img src="./assets/images/ytu-logo.png" class="brand-img logo-img img-responsive"></li>
+			<li style="float: right;">
+				<img src="./assets/images/kulup-logo.png" class="brand-img logo-img img-responsive"></li>
+		</ul><!-- /.social -->
+
 	</div>
 	<div class="col-xs-12 footer-text">
-		<div class="editContent">
-			<p>Please take a few minutes to read our <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a></p>
-		</div>
+		<ul class="social social-light">
+			<a data-toggle="modal" data-target="#kvkkModal"><li><p class="address small">KVKK BİLGİLENDİRME METNİ</p></li></a>
+			<a data-toggle="modal" data-target="#cplModal"><li><p class="address small">ÇEREZ POLİTİKASI</p></li></a>
+			<a data-toggle="modal" data-target="#myModal"><li><p class="address small">İLETİŞİM</p></li></a>
+		</ul><!-- /.social -->
 	</div>
 </div><!-- /.container -->
 </section>
@@ -37,7 +40,6 @@
 
 <!-- Theme Scripts -->
 <script type="text/javascript" src="./js/bskit-scripts.js"></script>
-
 </div><!--- wrapper --->
 </body>
 </html>

@@ -3,14 +3,33 @@ date_default_timezone_set('US/Eastern');
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
-
+include('settings.php');
 //Load Composer's autoloader
-require 'vendor/autoload.php';
+require_once $project_path.'/vendor/autoload.php';
 
 
+
+
+function CurlRequest($url,$method,$postInput=array()){
+    $client = new \GuzzleHttp\Client();
+    $token = $_SESSION['token'];
+
+    if($method == 'POST'){
+        $postInput["token"] = $token;
+    }else if($method == 'GET'){
+        $url = $url.'?token='.$token;
+    }
+
+    $response = $client->request($method, $url, ['form_params' => $postInput]);
+    $responseBody = json_decode($response->getBody(), true);
+    $statusCode = $response->getStatusCode(); // status code
+    // dd($responseBody); // body response
+    return array("response_body"=>$responseBody,"http_status"=>$statusCode);
+}
 
 function SendEmail($to,$message,$subject,$file_url_array=array()){
   $mail = new PHPMailer(true);
+  $mail->CharSet = 'UTF-8';
 
 
   		try {
@@ -29,7 +48,7 @@ function SendEmail($to,$message,$subject,$file_url_array=array()){
   		    // Sender and recipient settings
   		    $mail->setFrom('info@futurefoods.com', 'FUTURE FOODS');
   		    $mail->addAddress($to, 'Receiver Name');
-  		    $mail->addReplyTo('nfo@futurefoods.com', 'FUTUREFOODS'); // to set the reply to
+  		    $mail->addReplyTo('info@futurefoodscompetition.com', 'FFC'); // to set the reply to
 
   		    // Setting the email content
   		    $mail->IsHTML(true);
@@ -55,6 +74,7 @@ function SendEmail($to,$message,$subject,$file_url_array=array()){
 
 
   		} catch (Exception $e) {
+
   			return false;
   		    //echo "Error in sending email. Mailer Error: {$mail->ErrorInfo}";
   		}
@@ -91,7 +111,7 @@ function UploadFile($file,$upload_file_name){
   if(empty($errors)==true){
 
     if(move_uploaded_file($file_tmp,$upload_file_name."/".$file_name."_".$date.".".$file_ext)){
-      return array("result"=>1,"msg"=>"success","uploaded_file_url"=>"./".$upload_file_name."/".$file_name."_".$date.".".$file_ext);
+      return array("result"=>1,"msg"=>"success","uploaded_file_url"=>"../".$upload_file_name."/".$file_name."_".$date.".".$file_ext);
     } else {
 
         $phpFileUploadErrors = array(

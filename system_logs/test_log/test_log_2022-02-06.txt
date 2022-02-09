@@ -1,0 +1,6 @@
+*********************************************
+08:26:05
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
