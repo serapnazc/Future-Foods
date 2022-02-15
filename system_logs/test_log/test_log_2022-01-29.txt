@@ -1,234 +1,234 @@
-*********************************************
-05:07:58
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Bahçeşehir Üniversitesi 
-*********************************************
-04:29:55
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:29:33
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-1 
-*********************************************
-04:28:34
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[ 
-*********************************************
-04:28:08
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"record_id":"6","team_name":"test","member_one_name":"Cetinkaya edgdfg","member_one_phone":"serapnazc@gmail.com","member_one_mail":"05396604759","member_one_school":"Ad\u0131yaman \u00dcniversitesi","member_one_grade":"4","member_one_department":"beslenme","member_two_name":"","member_two_phone":"","member_two_mail":"","member_two_school":"","member_two_grade":"","member_two_department":"","member_three_name":"","member_three_phone":"","member_three_mail":"","member_three_school":"","member_three_grade":"","member_three_department":""}] 
-*********************************************
-04:28:00
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[ 
-*********************************************
-04:27:17
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[ 
-*********************************************
-04:27:05
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[ 
-*********************************************
-04:26:46
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"record_id":"6","team_name":"test","member_one_name":"Cetinkaya edgdfg","member_one_phone":"serapnazc@gmail.com","member_one_mail":"05396604759","member_one_school":"Ad\u0131yaman \u00dcniversitesi","member_one_grade":"4","member_one_department":"beslenme","member_two_name":"","member_two_phone":"","member_two_mail":"","member_two_school":"","member_two_grade":"","member_two_department":"","member_three_name":"","member_three_phone":"","member_three_mail":"","member_three_school":"","member_three_grade":"","member_three_department":""}] 
-*********************************************
-04:25:47
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-1 
-*********************************************
-04:25:29
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-1 
-*********************************************
-04:25:08
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:24:59
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:24:48
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Array 
-*********************************************
-04:18:00
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Serapnaz Cetinkaya 
-*********************************************
-04:18:00
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Ugur 
-*********************************************
-04:17:28
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Ugur 
-*********************************************
-04:17:28
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:16:24
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Ugur 
-*********************************************
-04:15:43
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Ugur 
-*********************************************
-04:15:32
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-2 
-*********************************************
-04:14:30
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-2 
-*********************************************
-04:14:04
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:04:19
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-0 
-*********************************************
-04:04:09
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-0 
-*********************************************
-04:03:41
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-0 
-*********************************************
-04:03:41
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-0 
-*********************************************
-04:03:41
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-0 
-*********************************************
-04:03:41
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-1 
-*********************************************
-04:00:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:00:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:00:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-04:00:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Cetinkaya 
-*********************************************
-04:00:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-03:58:51
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-03:58:51
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-03:58:51
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
-*********************************************
-03:58:51
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Cetinkaya 
-*********************************************
-03:58:51
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
- 
+*********************************************
+05:07:58
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Bahçeşehir Üniversitesi 
+*********************************************
+04:29:55
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:29:33
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+1 
+*********************************************
+04:28:34
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[ 
+*********************************************
+04:28:08
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"record_id":"6","team_name":"test","member_one_name":"Cetinkaya edgdfg","member_one_phone":"serapnazc@gmail.com","member_one_mail":"05396604759","member_one_school":"Ad\u0131yaman \u00dcniversitesi","member_one_grade":"4","member_one_department":"beslenme","member_two_name":"","member_two_phone":"","member_two_mail":"","member_two_school":"","member_two_grade":"","member_two_department":"","member_three_name":"","member_three_phone":"","member_three_mail":"","member_three_school":"","member_three_grade":"","member_three_department":""}] 
+*********************************************
+04:28:00
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[ 
+*********************************************
+04:27:17
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[ 
+*********************************************
+04:27:05
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[ 
+*********************************************
+04:26:46
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"record_id":"6","team_name":"test","member_one_name":"Cetinkaya edgdfg","member_one_phone":"serapnazc@gmail.com","member_one_mail":"05396604759","member_one_school":"Ad\u0131yaman \u00dcniversitesi","member_one_grade":"4","member_one_department":"beslenme","member_two_name":"","member_two_phone":"","member_two_mail":"","member_two_school":"","member_two_grade":"","member_two_department":"","member_three_name":"","member_three_phone":"","member_three_mail":"","member_three_school":"","member_three_grade":"","member_three_department":""}] 
+*********************************************
+04:25:47
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+1 
+*********************************************
+04:25:29
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+1 
+*********************************************
+04:25:08
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:24:59
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:24:48
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Array 
+*********************************************
+04:18:00
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Serapnaz Cetinkaya 
+*********************************************
+04:18:00
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Ugur 
+*********************************************
+04:17:28
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Ugur 
+*********************************************
+04:17:28
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:16:24
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Ugur 
+*********************************************
+04:15:43
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Ugur 
+*********************************************
+04:15:32
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+2 
+*********************************************
+04:14:30
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+2 
+*********************************************
+04:14:04
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:04:19
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+0 
+*********************************************
+04:04:09
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+0 
+*********************************************
+04:03:41
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+0 
+*********************************************
+04:03:41
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+0 
+*********************************************
+04:03:41
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+0 
+*********************************************
+04:03:41
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+1 
+*********************************************
+04:00:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:00:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:00:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+04:00:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Cetinkaya 
+*********************************************
+04:00:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:58:51
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:58:51
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:58:51
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 
+*********************************************
+03:58:51
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Cetinkaya 
+*********************************************
+03:58:51
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+ 

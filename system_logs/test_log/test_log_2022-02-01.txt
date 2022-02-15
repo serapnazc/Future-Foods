@@ -1,30 +1,30 @@
-*********************************************
-05:18:01
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-05:17:02
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_id":"14","team_name":"gfjfghjgk,j"}] 
-*********************************************
-05:16:16
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_id":"13","team_name":"sdfsdgfg"}] 
-*********************************************
-05:15:54
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_id":"9","team_name":"TEST1"},{"team_id":"11","team_name":"TEST1"},{"team_id":"12","team_name":"TEST1"}] 
-*********************************************
-05:14:54
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Array 
+*********************************************
+05:18:01
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+05:17:02
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_id":"14","team_name":"gfjfghjgk,j"}] 
+*********************************************
+05:16:16
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_id":"13","team_name":"sdfsdgfg"}] 
+*********************************************
+05:15:54
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_id":"9","team_name":"TEST1"},{"team_id":"11","team_name":"TEST1"},{"team_id":"12","team_name":"TEST1"}] 
+*********************************************
+05:14:54
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Array 

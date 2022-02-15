@@ -1,3 +1,18 @@
+<?php
+
+$title_result = "Türkiye'nin en iyi oranlari ile Lider Bahis Sitesi";
+$turkish = array("ı", "ğ", "ü", "ş", "ö", "ç");//turkish letters
+$english   = array("i", "g", "u", "s", "o", "c");//english cooridinators letters
+
+$final_title = str_replace($turkish, $english, $title_result);//replace php function
+print_r($turkish);
+
+
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

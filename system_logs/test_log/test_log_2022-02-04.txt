@@ -1,258 +1,258 @@
-*********************************************
-08:54:16
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-08:51:07
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:49:11
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:48:46
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:47:57
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:44:50
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:44:19
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:44:18
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:41:40
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-07:40:05
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-Member dosyasi olusturulamadi 
-*********************************************
-11:32:33
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-["aaaa@hotmail.com","hjkshf@gmail.com"] 
-*********************************************
-11:32:11
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:54
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:54
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:46
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:46
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:34
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:34
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:03
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:31:03
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:30:55
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:30:55
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:30:38
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:30:38
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:30:04
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:30:04
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:30:02
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:30:02
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:58
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:58
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:48
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:48
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:29:27
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:23:02
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:23:02
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"17","team_id":"9","name":"Serapnaz Cetikaya","phone":"05396604759","mail":"serapnaz@gmail.com","city":"","school":"Ad\u0131yaman \u00dcniversitesi","grade":"4","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"19","team_id":"10","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Akev \u00dcniversitesi","grade":"2","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"20","team_id":"11","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Gastronomi","student_certificate":""},{"team_member_id":"22","team_id":"13","name":"Ugur","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Ac\u0131badem \u00dcniversitesi","grade":"3","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"24","team_id":"15","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Abdullah G\u00fcl \u00dcniversitesi","grade":"2","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:22:03
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"26","team_id":"17","name":"esela","phone":"05354072561","mail":"serapnazc@gmail.com","city":"","school":"Atat\u00fcrk \u00dcniversitesi","grade":"2","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:22:03
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:21:59
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:21:10
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:20:37
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[] 
-*********************************************
-11:19:52
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"25","team_id":"17","name":"evet","phone":"05354072561","mail":"dddddd","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
-*********************************************
-11:18:49
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+08:54:16
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+08:51:07
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:49:11
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:48:46
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:47:57
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:44:50
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:44:19
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:44:18
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:41:40
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+07:40:05
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+Member dosyasi olusturulamadi 
+*********************************************
+11:32:33
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+["aaaa@hotmail.com","hjkshf@gmail.com"] 
+*********************************************
+11:32:11
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:54
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:54
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:46
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:46
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:34
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:34
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:03
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:31:03
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:30:55
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:30:55
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:30:38
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:30:38
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:30:04
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:30:04
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:30:02
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:30:02
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:58
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:58
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:48
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:48
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:29:27
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:23:02
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"18","team_id":"9","name":"Defne Cetinkaya","phone":"053589965411","mail":"hjkshf@gmail.com","city":"","school":"Alanya Alaaddin Keykubat \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"28","team_id":"18","name":"Songul Ugur","phone":"05354072561","mail":"hjkshf@gmail.com","city":"","school":"Ardahan \u00dcniversitesi","grade":"1","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:23:02
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"17","team_id":"9","name":"Serapnaz Cetikaya","phone":"05396604759","mail":"serapnaz@gmail.com","city":"","school":"Ad\u0131yaman \u00dcniversitesi","grade":"4","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"19","team_id":"10","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Akev \u00dcniversitesi","grade":"2","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"20","team_id":"11","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Gastronomi","student_certificate":""},{"team_member_id":"22","team_id":"13","name":"Ugur","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Ac\u0131badem \u00dcniversitesi","grade":"3","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"24","team_id":"15","name":"Cetinkaya","phone":"05354072561","mail":"serapnaz@gmail.com","city":"","school":"Abdullah G\u00fcl \u00dcniversitesi","grade":"2","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:22:03
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"26","team_id":"17","name":"esela","phone":"05354072561","mail":"serapnazc@gmail.com","city":"","school":"Atat\u00fcrk \u00dcniversitesi","grade":"2","department":"G\u0131da M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:22:03
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:21:59
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:21:10
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:20:37
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[] 
+*********************************************
+11:19:52
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"25","team_id":"17","name":"evet","phone":"05354072561","mail":"dddddd","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"4","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 
+*********************************************
+11:18:49
+*********************************************
+LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
+
+[{"team_member_id":"14","team_id":"8","name":"sdfsd","phone":"5396604759","mail":"aaaa@hotmail.com","city":"","school":"Akdeniz \u00dcniversitesi","grade":"Y\u00fcksek Lisans","department":"Beslenme ve Diyetetik","student_certificate":""},{"team_member_id":"21","team_id":"12","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"2","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""},{"team_member_id":"23","team_id":"14","name":"Ugur","phone":"05354072561","mail":"aaaa@hotmail.com","city":"","school":"Adana Bilim ve Teknoloji \u00dcniversitesi","grade":"3","department":"Kimya M\u00fchendisli\u011fi","student_certificate":""}] 

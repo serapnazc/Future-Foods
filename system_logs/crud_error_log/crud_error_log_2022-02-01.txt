@@ -1,6 +1,0 @@
-*********************************************
-05:27:34
-*********************************************
-LOCATION: C:\xampp\htdocs\futurefoodsforum\basvuru.php
-
-SELECT * FROM teams WHERE mail = 'serapnaz@gmail.com' 

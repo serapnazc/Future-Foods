@@ -114,7 +114,7 @@
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-	
+
 	#header-2 .main-nav .nav .dropdown-menu {
 		-webkit-border-radius: 4px;
 		-moz-border-radius: 4px;
@@ -130,7 +130,7 @@
 		min-width: 180px;
 		background: #3E606F;
 	}
-	
+
 	#header-2 .main-nav .nav .dropdown-menu:before {
 		content: "";
 		display: block;
@@ -143,7 +143,7 @@
 		right: 35px;
 		top: -10px;
 	}
-	
+
 	#header-2 .main-nav .nav .dropdown-menu a {
 		padding: 8px 20px;
 		color: #fff;
@@ -151,25 +151,36 @@
 		-moz-opacity: 1;
 		opacity: 1;
 	}
-	
+
 	#header-2 .main-nav .nav .dropdown-menu a:hover {
 		background: #193441;
 		color: #fff;
 	}
-	
+
+	#header-2 .brand-img {
+    max-width: 75px !important;
+}
+#header-2 .main-nav .nav .nav-item a {
+	font-size: 10px !important;
+}
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
-	
+	##header-2 .brand-img {
+	  margin: 10px auto !important;
+	  max-width: 110px ;
+	}
+#header-2 .main-nav .nav .nav-item a {
+	font-size:15px !important;
+}
 
-	
+
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
-	
-	
-	
-}
 
+
+
+}
