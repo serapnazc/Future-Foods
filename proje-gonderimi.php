@@ -2,13 +2,13 @@
 	include('./includes-website/html_header.php');
 ?>
 <!-- Start Contact 1 -->
-<section class="content-block contact-1" >
+<section class="contact-1" >
   <div class="container text-center">
 
     <div class="col-sm-10 col-sm-offset-1">
       <div class="underlined-title">
         <div class="editContent">
-          <h1 class="contact-title">Proje gönderimleri 3 Martta başlayacaktır.</h1>
+          <h1 class="contact-title">Proje gönderimleri 21 Şubat'ta başlayacaktır.</h1>
         </div>
           <hr>
       </div>

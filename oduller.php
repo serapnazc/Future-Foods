@@ -4,8 +4,11 @@
 
 <section class="content-block prize-block">
 
-    	<div class="container-fluid">
+    	<div class="container">
             <div class="row">
+							<img src="assets/images/oduller-img.png" style="width: 100%;">
+
+							<!--
                 <div id="isotope-gallery-container">
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="gallery-item">
@@ -30,7 +33,8 @@
                             </div>
                         </div>
                     </div>
-            </div>
+							-->
+						</div>
         </div>
     </div></section>
 

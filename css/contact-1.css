@@ -30,7 +30,7 @@
 }
 
 .contact-1 .contact-info li a:hover {
-	color: #1abc9c
+	color: #fab600
 }
 
 #contact span.required {
@@ -64,22 +64,21 @@
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-	
-		
-	
+
+
+
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
-	
 
-	
+
+
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
-	
-	
-	
-}
 
+
+
+}

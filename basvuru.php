@@ -9,7 +9,6 @@
 			$member_id = $_POST['member_id'];
 			$team_name = CleanVariable($_POST['team_name']);
 
-
 			$team_folder_url = "uploads/".CleanName($team_name)."";
 
 
@@ -231,14 +230,14 @@
 	<!-- Start Contact 2 -->
 	<section class="content-block contact-2" >
 		<div class="container">
-			<h3><?php echo $result_text; ?></h3>
+			<h3 class="warning-text"><?php echo $result_text; ?></h3>
 			<div class="row">
 					<div id="" class="form-container">
 							<form method="post" action="basvuru.php" enctype="multipart/form-data">
 								<!-- ADD MEMBER-->
-								<div class="row">
+
 									<div class="row">
-										<div class="select-box">
+										<div class="col-md-8 col-md-offset-4">
 											<button type="button" class="add-member-btn btn  pull-right"  onclick="addMember();">YENI ÜYE EKLE</button>
 										</div>
 									</div>
@@ -255,13 +254,14 @@
 											for($i=0;$i<$_SESSION['member_count'];$i++){
 												$member_id =$i+1;
 												echo '<h4 class="apply-title">'.$member_id.'. ÜYE</h4>
-											        <div class="col-md-4">
+											        <div class="col-md-4 pl-0">
 											          <div class="form-group">    <input name="'.$member_id.'_name" type="text" value="" placeholder="Ad Soyad" class="form-control" required />  </div>
 											          <div class="form-group">    <input name="'.$member_id.'_phone" type="tel" value="" placeholder="Telefon" class="form-control"  required/>  </div>
 											          <div class="form-group">    <input name="'.$member_id.'_email" type="text" value="" placeholder="Email" class="form-control"  required/>  </div>
 
 											        </div>
 											        <input name="member_id" value='.$member_id.' hidden/>
+
 											        <div class="col-md-4">
 															  <div class="form-group">
 																	<select name="'.$member_id.'_city" class="form-control" required>
@@ -347,7 +347,7 @@
 																		 <option value="Osmaniye">Osmaniye</option>
 																		 <option value="Düzce">Düzce</option>
 																	</select>
-															 </div>
+															  </div>
 											          <div class="form-group">
 											             <select  name="'.$member_id.'_school" class="form-control" required>
 											                <option value="">Okul</option>
@@ -552,9 +552,9 @@
 											                <option value="4">4</option>
 											             </select>
 											          </div>
-
 											        </div>
-														  <div class="col-md-4">
+
+														  <div class="col-md-4 pr-0">
 															  <div class="form-group">
 																	<select  name="'.$member_id.'_department"class="form-control" required>
 																		 <option value="">Bölüm</option>

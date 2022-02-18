@@ -1,0 +1,24 @@
+*********************************************
+02:06:50
+*********************************************
+LOCATION: /home/futurefo/public_html/api\api-send-team-emails.php
+
+1 
+*********************************************
+02:06:50
+*********************************************
+LOCATION: /home/futurefo/public_html/api\api-send-team-emails.php
+
+1 
+*********************************************
+02:06:12
+*********************************************
+LOCATION: /home/futurefo/public_html/api\api-send-team-emails.php
+
+Array 
+*********************************************
+02:06:12
+*********************************************
+LOCATION: /home/futurefo/public_html/api\api-send-team-emails.php
+
+Array 

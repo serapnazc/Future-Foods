@@ -6,11 +6,11 @@
         <div class="container-fluid">
 
 					<div class="row">
-						<div class="col-md-6 col-md-offset-1">
-							<img src="assets/images/muntu_draft1.png" style="width: 100%;">
-						</div>
+						<div class="col-md-10 col-md-offset-1">
+							<img src="assets/images/index-img.png" style="width: 100%;">
+						</div><!--
 						<div class="col-md-4" col-md-offset-2="">
-							<div class="feature-box">
+							<div class="feature-box mt-0">
 									<div class="editContent">
 											<h4 class="surec-title">BAŞVURU VE PROJE TESLİM</h4>
 											<hr>
@@ -54,7 +54,7 @@
 									</div>
 							</div>
 						</div>
-					</div>
+		-->		</div>
         </div>
         <!-- Container Ends -->
     </section>

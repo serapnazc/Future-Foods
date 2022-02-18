@@ -1,19 +1,19 @@
 @media only screen and (min-width: 768px){
 	#header-2 .main-nav .nav .dropdown-menu {
-	  background: #306a37 !important;
+	  background: #100b47 !important;
 	}
 	#header-2 .main-nav .nav .dropdown-menu:before{
-    border-bottom: 10px solid #306a37 !important;
+    border-bottom: 10px solid #100b47  !important;
 	}
 	#header-2 .main-nav .nav .nav-item .dropdown-menu  .active{
-  	background: #4bac57 !important;
+  	background: #9f1669 !important;
 	}
 	#header-2 .main-nav .nav .dropdown-menu a:hover {
-    background: #4bac57 !important;
+    background: #9f1669 !important;
 	}
 }
 body{
-/*	background: url(../images/bg.png) !important; */
+/*	background: url(./assets/images/bg.png) !important;*/
 }
 .bg-img{
 	background-image: url(../images/bg.png);
@@ -36,9 +36,10 @@ body{
 }
 .content-wrapper{
 	min-height: 693px;
+	background: url(../assets/images/bg.png) !important;
 }
 .navbar-default {
-  background-color: #4bac57 !important;
+  background-color: #9F1669 !important;
 }
 
 #header-2 .main-nav .nav .nav-item a {
@@ -57,12 +58,11 @@ ul li, ol li {
   color: #ffffff !important;
 }
 .content-1-5{
-	padding: 218px 0 200px 0 !important;
+	padding: 90px 0 60px 0 !important;
 	background-image: url(../images/bg.png);
-	/*padding: 200px 0 198px 0 !important; */
+	background-color: transparent !important;
 }
 .basic-1-1{
-	background: #ffffff8f !important;
  text-shadow: 0 0 black !important;
 }
 .content-1-9{
@@ -72,7 +72,7 @@ ul li, ol li {
 	padding: 161px 0 160px 0 !important;
 }
 .contact-1{
-	padding: 26rem 0px 24rem 0 !important;
+	background-color: transparent !important;
 }
 .copyright-bar{
 	background-color: #226a04  !important;
@@ -105,10 +105,10 @@ ul li, ol li {
 	color: #4a4a4a !important;
 }
 .underlined-title hr {
-  border-color: #f15a29 !important;
+  border-color: #fab600 !important;
 }
 .contact-1 .contact-info span {
-  color: #f15a29 !important;
+  color: #9f1669 !important;
 }
 .content-sponsor{
 	background: #ffffff !important;
@@ -122,11 +122,11 @@ ul li, ol li {
 	background: transparent !important;
 }
 .panel-title > a, .panel-title > a:hover{
-	background: #226a04 ;
+	background: #68c4f1 ;
 	color: #fff;
 }
 .panel-title > a.collapsed span{
-	 color: #226a04;
+	 color: #9f1669;
 }
 .panel-title > a:hover span {
     color: inherit;
@@ -138,7 +138,7 @@ ul li, ol li {
 	color: #ffffff !important;
 }
 .content-3-6 .feature-box{
-	background: #247fc0b3 !important;
+	background: #d4c74d !important;
 }
 .surec-date{
 	font-weight: normal;
@@ -164,10 +164,10 @@ ul li, ol li {
 	padding: 0 15px 0 15px !important;
 }
 .add-member-btn{
-	background: #39b1d5;
+	background: #D4C74D;
 }
 .add-member-btn:hover{
-  background: #0c97c1 !important;
+  background:#e2ca1f !important;
 	color: #ffffff !important;
 }
 .add-member-btn:focus{
@@ -175,10 +175,10 @@ ul li, ol li {
 	color: #ffffff !important;
 }
 .apply-btn{
-	background: #4bac57;;
+	background: #9f1669;;
 }
 .apply-btn:hover{
-	background: #226a04;
+	background: #100B47;
 	color: #ffffff !important
 }
 .apply-btn:focus{
@@ -189,7 +189,7 @@ ul li, ol li {
 	color: #d53939 !important;
 }
 .footer-ws{
-	background-color: #226A04 !important;
+	background-color: #100B47 !important;
 	bottom: 0;
 /*	position: fixed;*/
 }
@@ -233,6 +233,7 @@ a{
 }
 .prize-block{
 	padding: 12rem 1rem 12rem 1rem !important;
+	background-color: transparent !important;
 }
 .prize-img{
 	width: 80%;
@@ -242,5 +243,24 @@ a{
 	padding-top: 6rem;
 }
 .fb-title{
+	font-weight: 500;
+}
+.fb-content{
+	font-size: 16px !important;
+	color: #000000;
+}
+.contact-1{
+	background-color: transparent !important;
+	padding: 200px 0 60px 0 !important;
+}
+.contact-2{
+	background-color: transparent !important;
+	padding: 60px 15px 60px 15px !important;
+}
+.contact-1 .contact-info li{
+	font-size: 18px !important;
+}
+.warning-text{
+	color: red;
 	font-weight: 500;
 }

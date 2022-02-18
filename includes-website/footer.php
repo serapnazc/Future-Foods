@@ -21,7 +21,7 @@
 		<ul class="social social-light">
 			<a data-toggle="modal" data-target="#kvkkModal"><li><p class="address small">KVKK BİLGİLENDİRME METNİ</p></li></a>
 			<a data-toggle="modal" data-target="#cplModal"><li><p class="address small">ÇEREZ POLİTİKASI</p></li></a>
-			<a data-toggle="modal" data-target="#myModal"><li><p class="address small">İLETİŞİM</p></li></a>
+			<a href="iletisim.php"><li><p class="address small">İLETİŞİM</p></li></a>
 		</ul><!-- /.social -->
 	</div>
 </div><!-- /.container -->

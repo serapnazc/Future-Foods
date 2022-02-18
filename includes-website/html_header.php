@@ -14,7 +14,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Future Foods Forum</title>
+    <title>Future Foods Competition</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="bskit, bootstrap starter kit, bootstrap builder" />
 	<meta name="description" content="Business Startup & Prototyping HTML Framework" />
@@ -36,6 +36,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 	<link href="./css/footer-3.css" rel="stylesheet">
 	<link href="./css/custom.css" rel="stylesheet">
 	<link href="./css/basic.css" rel="stylesheet">
+	<link href="./css/contact-1.css" rel="stylesheet">
 	<link href="./css/content1-3.css" rel="stylesheet">
 	<link href="./css/content1-5.css" rel="stylesheet">
 	<link href="./css/content1-9.css" rel="stylesheet">
@@ -79,7 +80,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					</div>
 					<!-- Modal body -->
 					<div class="modal-body">
-						Modal body..
+						<object type="application/pdf" data="./assets/website-files/Çerez-Politikası.pdf" width="100%" height="500" style="height: 85vh;"></object>
 					</div>
 					<!-- Modal footer -->
 					<div class="modal-footer">
@@ -100,7 +101,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					</div>
 					<!-- Modal body -->
 					<div class="modal-body">
-						Modal body..
+						<object type="application/pdf" data="./assets/website-files/YARIŞMAYA-KATILIM-KOŞULLARI.pdf" width="100%" height="500" style="height: 85vh;"></object>
 					</div>
 					<!-- Modal footer -->
 					<div class="modal-footer">
@@ -121,7 +122,6 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					<!-- Modal body -->
 					<div class="modal-body">
 						<object type="application/pdf" data="./assets/website-files/sartname.pdf" width="100%" height="500" style="height: 85vh;"></object>
-      <
 					</div>
 					<!-- Modal footer -->
 					<div class="modal-footer">
@@ -143,7 +143,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="index.php"><img src="./assets/images/logo-eg.png" class="brand-img img-responsive" ></a>
+					<a href="index.php"><img src="./assets/images/ffc-logo.png" class="brand-img img-responsive" ></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -158,7 +158,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 								<li class=""><a href="ffc-hakkinda.php">Hakkında</a></li>
 								<li class=""><a href="sss.php">SSS</a></li>
 								<li class=""><a href="surec.php">Süreç</a></li>
-								<li class=""><a href="galeri.php">Galerİ</a></li>
+							<!--	<li class=""><a href="galeri.php">Galerİ</a></li> -->
 							</ul>
 						</li>
 						<li class="nav-item "><a href="fonksiyonel-bar.php">Fonksiyonel Bar Nedir?</a></li><li class="nav-item dropdown">

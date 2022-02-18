@@ -8,6 +8,10 @@
         <div class="container">
 
             <div class="row">
+							<div class="col-sm-8 col-md-offset-2">
+								<img src="assets/images/surec-img.png" style="width: 100%;">
+							</div>
+							<!--
                 <div class="col-sm-6 col-xs-12">
                     <div class="feature-box">
                         <div class="editContent">
@@ -33,8 +37,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
+-->
+						</div>
+<!--
 						<div class="row">
 								<div class="col-sm-6 col-xs-12">
 										<div class="feature-box">
@@ -63,7 +68,7 @@
 								</div>
 						</div>
 
-        </div>
+        </div> -->
         <!-- Container Ends -->
     </section>
 

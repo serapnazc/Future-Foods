@@ -3,3 +3,15 @@
 [15-Feb-2022 15:10:06 US/Eastern] PHP Notice:  Trying to access array offset on value of type null in /home/futurefo/public_html/api/api-send-team-emails.php on line 15
 [15-Feb-2022 15:10:06 US/Eastern] PHP Notice:  Undefined offset: 0 in /home/futurefo/public_html/api/api-send-team-emails.php on line 176
 [15-Feb-2022 15:10:06 US/Eastern] PHP Notice:  Trying to access array offset on value of type null in /home/futurefo/public_html/api/api-send-team-emails.php on line 176
+[18-Feb-2022 14:05:52 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/api/api-send-team-emails.php on line 147
+[18-Feb-2022 14:05:52 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/api/api-send-team-emails.php on line 147
+[18-Feb-2022 14:06:12 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/includes/crud-mysqli.php on line 42
+[18-Feb-2022 14:06:12 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/includes/crud-mysqli.php on line 42
+[18-Feb-2022 14:06:37 US/Eastern] PHP Fatal error:  Uncaught Error: Call to undefined function prit_r() in /home/futurefo/public_html/api/api-send-team-emails.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/futurefo/public_html/api/api-send-team-emails.php on line 147
+[18-Feb-2022 14:06:42 US/Eastern] PHP Fatal error:  Uncaught Error: Call to undefined function prit_r() in /home/futurefo/public_html/api/api-send-team-emails.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/futurefo/public_html/api/api-send-team-emails.php on line 147
