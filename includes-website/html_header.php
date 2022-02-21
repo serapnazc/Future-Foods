@@ -59,7 +59,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					</div>
 					<!-- Modal body -->
 					<div class="modal-body">
-						Modal body..
+						<object type="application/pdf" data="./assets/website-files/KVKK.pdf" width="100%" height="500" style="height: 85vh;"></object>.
 					</div>
 					<!-- Modal footer -->
 					<div class="modal-footer">
@@ -151,7 +151,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					<ul class="nav navbar-nav navbar-right">
 						<li class="nav-item "><a href="nasil-katilirsin.php">Nasıl Katılırsın?</a></li>
 						<li class="nav-item  "><a href="basvuru.php">Başvuru Formu</a></li>
-						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gönderİmİ</a></li>
+						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gönderİmİ</a></li> 
 						<li class="nav-item  "><a href="oduller.php">Ödüller</a></li><li class="nav-item dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">FFC <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">

@@ -15,3 +15,46 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/futurefo/public_html/api/api-send-team-emails.php on line 147
+[21-Feb-2022 08:21:29 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:28:24 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:29:23 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:29:27 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:31:32 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:32:18 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:32:45 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:34:11 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:34:44 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:36:57 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:40:45 US/Eastern] PHP Notice:  Undefined index: team_id in /home/futurefo/public_html/api/api-send-projects.php on line 12
+[21-Feb-2022 08:40:45 US/Eastern] PHP Notice:  Undefined offset: 0 in /home/futurefo/public_html/api/api-send-projects.php on line 15
+[21-Feb-2022 08:40:45 US/Eastern] PHP Notice:  Trying to access array offset on value of type null in /home/futurefo/public_html/api/api-send-projects.php on line 15
+[21-Feb-2022 08:40:45 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:41:04 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:41:58 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:42:12 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:44:03 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:44:03 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/api/api-send-projects.php on line 124
+[21-Feb-2022 08:44:03 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/api/api-send-projects.php on line 124
+[21-Feb-2022 08:44:13 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:44:49 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:44:59 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:04 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:10 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:18 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:20 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:28 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:45:31 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:40 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:40 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:42 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:42 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:49 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:49 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:54 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:46:54 US/Eastern] PHP Notice:  Array to string conversion in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:47:08 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:47:08 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:47:33 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:47:33 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:47:44 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[21-Feb-2022 08:48:03 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121

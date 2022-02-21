@@ -1,0 +1,258 @@
+*********************************************
+09:25:28
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Teşekkürler! 
+*********************************************
+09:14:58
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+333 
+*********************************************
+09:14:58
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+222 
+*********************************************
+09:14:58
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+{"record_id":"21","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"} 
+*********************************************
+09:14:58
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+111 
+*********************************************
+09:14:19
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+333 
+*********************************************
+09:14:19
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+222 
+*********************************************
+09:14:19
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+{"record_id":"20","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"} 
+*********************************************
+09:14:19
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+111 
+*********************************************
+09:11:54
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/KVKK_2022-02-21.pdf"] 
+*********************************************
+09:11:54
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+333 
+*********************************************
+09:11:54
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+222 
+*********************************************
+09:11:54
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+[{"record_id":"18","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"16","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"17","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"14","team_id":"127","project":"..\/uploads\/TEST\/FFC BRIEF_2022-02-21.pdf"},{"record_id":"19","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"}] 
+*********************************************
+09:11:54
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+111 
+*********************************************
+09:11:06
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/KVKK_2022-02-21.pdf"] 
+*********************************************
+09:11:06
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+[{"record_id":"18","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"16","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"17","team_id":"127","project":"..\/uploads\/TEST\/KVKK_2022-02-21.pdf"},{"record_id":"14","team_id":"127","project":"..\/uploads\/TEST\/FFC BRIEF_2022-02-21.pdf"}] 
+*********************************************
+09:10:30
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/KVKK_2022-02-21.pdf"] 
+*********************************************
+09:10:15
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/KVKK_2022-02-21.pdf"] 
+*********************************************
+09:09:26
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/KVKK_2022-02-21.pdf"] 
+*********************************************
+09:08:02
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/FFC BRIEF_2022-02-21.pdf"] 
+*********************************************
+09:07:32
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/FFC BRIEF_2022-02-21.pdf"] 
+*********************************************
+09:04:28
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/FFC BRIEF_2022-02-21.pdf"] 
+*********************************************
+08:54:43
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/FFC PROJE FORMATI_2022-02-21.pdf"] 
+*********************************************
+08:40:45
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:36:56
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:34:44
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:34:44
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:34:10
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["127","Array"] 
+*********************************************
+08:34:10
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:32:44
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+["..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"] 
+*********************************************
+08:32:17
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+Array 
+*********************************************
+08:24:29
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+{"result":1,"msg":"success","uploaded_file_url":"..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"} 
+*********************************************
+08:23:58
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+Array 
+*********************************************
+08:22:42
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+Array 
+*********************************************
+07:25:06
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Tesekkurler 
+*********************************************
+07:11:08
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Bu takım adı daha once kulgglanılmış. 
+*********************************************
+07:10:42
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Bu takım adı daha once kullanılmış. 
+*********************************************
+07:10:34
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Bu takım adı daha once kullanılmış. 
+*********************************************
+07:09:24
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Bu takım adı daha once kullanılmış. 
+*********************************************
+07:09:24
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+Bu takım adı daha once kullanılmış. 
+*********************************************
+07:09:24
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+ 
+*********************************************
+07:09:24
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+ 
+*********************************************
+07:09:24
+*********************************************
+LOCATION: /home/futurefo/public_html\basvuru.php
+
+ 

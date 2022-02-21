@@ -1,0 +1,30 @@
+*********************************************
+08:54:55
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+There is no error, the file uploaded with success 
+*********************************************
+08:29:26
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+success 
+*********************************************
+08:29:22
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+success 
+*********************************************
+08:28:23
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+{"result":1,"msg":"success","uploaded_file_url":"..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"} 
+*********************************************
+08:27:49
+*********************************************
+LOCATION: /home/futurefo/public_html\proje-gonderimi.php
+
+{"result":1,"msg":"success","uploaded_file_url":"..\/uploads\/TEST\/21022022 Future Foods Competition \u015eartname_2022-02-21.pdf"} 

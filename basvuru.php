@@ -37,7 +37,6 @@
 
 
 			//TEAM MEMBER FILE (student certificate) CHECK EXTENSION AND SIZE
-
 			if($all_checks == true){
 					for($i=1; $i<($member_id+1); $i++){
 						if($_FILES[$i.'_file_upload']['size'] > 2097152 || pathinfo($_FILES[$i.'_file_upload']['name'],PATHINFO_EXTENSION) != 'pdf'){
@@ -49,7 +48,6 @@
 			}
 
 			//TEAM MEMBER CV FILE CHECK EXTENSION AND SIZE
-
 			if($all_checks == true){
 					for($i=1; $i<($member_id+1); $i++){
 						if($_FILES[$i.'_cv_file_upload']['name'] != null){
@@ -62,24 +60,14 @@
 					}
 			}
 
-			//TEAM PRE PROJECT FILE CHECK EXTENSION AND SIZE
 
-			if($all_checks == true){
-				if($_FILES['pre_project_file_upload']['name'] != null){
-					if($_FILES['pre_project_file_upload']['size'] > 2097152 || pathinfo($_FILES['pre_project_file_upload']['name'],PATHINFO_EXTENSION) != 'pdf'){
-
-						$result_text = 'Dosya boyutu 2MB den buyuk olmamali ve yalnizca PDF olmali';
-						$all_checks = false;
-				 }
-				}
-			}
 
 			//TEAM NAME CHECK
 			if($all_checks == true){
 
 				$result_team_name_search = Get("teams","WHERE team_name = '".$team_name."'");
 				if(!empty($result_team_name_search)){
-						$result_text = "Bu takim adi daha once kullanılmış.";
+						$result_text = "Bu takım adı daha once kullanılmış.";
 						$all_checks = false;
 				}
 			}
@@ -109,20 +97,7 @@
 
 			}
 
-			// PRE PROJECT FILE UPLOAD TO TEAM FOLDER
-			if($all_checks == true){
-				$pre_project_file_url_array = '';
-				if($_FILES['pre_project_file_upload']['name'] != null){
-					$upload = UploadFile( $_FILES['pre_project_file_upload'],$team_folder_url);// mewmber id yukaridaki for ile ayni sirada isleniyor
-					if($upload['result'] != 1){
-						$result_text = $upload['msg'];
-							$all_checks = false;
-					} else {
 
-						$pre_project_file_url_array = $upload['uploaded_file_url'];
-					}
-				}
-			}
 
 			//TEAM MEMBER FILE (student certificate) UPLOAD
 			if($all_checks == true){
@@ -169,8 +144,8 @@
 			if($all_checks == true){
 				//INSERT VS VS
 
-				$fields_array=array("team_name","pre_project");
-				$values=array("".$team_name."","".$pre_project_file_url_array."");
+				$fields_array=array("team_name");
+				$values=array("".$team_name."");
 				$result_team = Insert('teams',$fields_array,$values);
 
 				if($result_team === true){
@@ -195,7 +170,7 @@
 						$result_members = Insert('team_members',$fields_array,$values);
 
 						if($result_members == true){
-							$result_text = 'Tesekkurler';
+							$result_text = 'Teşekkürler!';
 							$postInput=array("team_id"=>$team_id);
 
 							//curl(team_id)
@@ -213,7 +188,7 @@
 				}
 
 
-
+TestLog($result_text);
 
 
 			}
@@ -587,14 +562,6 @@
 
 
 										?>
-										<div class="form-group row">
-											<div class="col-md-2 col-md-offset-6 text-right">
-												<label class="" style="line-height: 3;">Proje On Sunum</label>
-											</div>
-											<div class="col-md-4 pl-0">
-												<input class="form-control" type="file" name="pre_project_file_upload" id="fileToUpload" >
-											</div>
-										</div>
 
 									<div class="row">
 										<div class="custom-control custom-checkbox mt-3 pull-right">

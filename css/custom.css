@@ -13,7 +13,7 @@
 	}
 }
 body{
-/*	background: url(./assets/images/bg.png) !important;*/
+	background: url(../assets/images/bg.png) !important;
 }
 .bg-img{
 	background-image: url(../images/bg.png);

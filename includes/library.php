@@ -6,7 +6,7 @@
 
         $var  = str_replace("'", "", $var); //Remove single quote '
         $var  = str_replace('"', '', $var); //Remove double quote "
-      
+
         return $var;
 
     }
@@ -49,7 +49,7 @@
         }
 
     }
-    function ExcelToArray($path,$column_count){
+/*    function ExcelToArray($path,$column_count){
 
 		global $ROOT;
   		require_once $ROOT."/includes/Classes/PHPExcel.php";
@@ -87,7 +87,7 @@
 
   		return $rows_array;
 
-  	}
+  	}*/
 
     function searchForId($search_value, $array) {
 

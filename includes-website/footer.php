@@ -6,7 +6,9 @@
 <section class="content-block-nopad footer-ws">
 <div class="container footer-1-3">
 	<div class="col-md-3 pull-left">
+		<a href="http://www.afroturcofoods.com/">
 		<img  src="./assets/images/afro-turco.svg" class="brand-img img-responsive">
+	</a>
 	</div>
 	<div class="col-md-3 pull-right">
 		<ul class="social">
