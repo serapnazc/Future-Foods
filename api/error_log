@@ -58,3 +58,4 @@ Stack trace:
 [21-Feb-2022 08:47:33 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
 [21-Feb-2022 08:47:44 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
 [21-Feb-2022 08:48:03 US/Eastern] PHP Notice:  Undefined index: project in /home/futurefo/public_html/api/api-send-projects.php on line 121
+[22-Feb-2022 09:25:28 Europe/Istanbul] PHP Notice:  Undefined index: token in /home/futurefo/public_html/api/api-add-new-member.php on line 3

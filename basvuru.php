@@ -457,6 +457,7 @@ TestLog($result_text);
 											                <option value="İstanbul Esenyurt Üniversitesi">İstanbul Esenyurt Üniversitesi</option>
 											                <option value="İstanbul Gelişim Üniversitesi">İstanbul Gelişim Üniversitesi</option>
 											                <option value="İstanbul Kemerburgaz Üniversitesi">İstanbul Kemerburgaz Üniversitesi</option>
+																			<option value="İstanbul Kent Üniversitesi">İstanbul Kent Üniversitesi</option>
 											                <option value="İstanbul Kültür Üniversitesi">İstanbul Kültür Üniversitesi</option>
 											                <option value="İstanbul Medeniyet Üniversitesi">İstanbul Medeniyet Üniversitesi</option>
 											                <option value="İstanbul Medipol Üniversitesi">İstanbul Medipol Üniversitesi</option>

@@ -19,7 +19,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
     <meta name="keywords" content="bskit, bootstrap starter kit, bootstrap builder" />
 	<meta name="description" content="Business Startup & Prototyping HTML Framework" />
 
-	<link rel="shortcut icon" href="ico/favicon.png">
+	<link rel="shortcut icon" href="./assets/images/ffc-logo.png">
 
     <!-- Core CSS -->
     <link href="./assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -151,7 +151,7 @@ $_SESSION['token'] ='F751461E769BE848888C1D793A7FA14A2F30A8E786C4194C9878022FFB6
 					<ul class="nav navbar-nav navbar-right">
 						<li class="nav-item "><a href="nasil-katilirsin.php">Nasıl Katılırsın?</a></li>
 						<li class="nav-item  "><a href="basvuru.php">Başvuru Formu</a></li>
-						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gönderİmİ</a></li> 
+						<li class="nav-item  "><a href="proje-gonderimi.php">Proje Gönderİmİ</a></li>
 						<li class="nav-item  "><a href="oduller.php">Ödüller</a></li><li class="nav-item dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">FFC <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu">
